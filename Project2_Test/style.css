@@ -44,6 +44,14 @@
     opacity: 0.5;
   }
 
+  .nav-germ1{
+    position: absolute;
+    bottom: 10px;
+    left: 185px;
+    width: 40px;
+    color: white;
+    opacity: 0.5;
+  }
   .wrapper {
     position: relative;
     min-height: 100%;
@@ -66,5 +74,18 @@
   }
 
 #footer-text{
+  text-align: center;
+}
+
+.form-inline{
+  padding-top: 20px;
+  position: relative;
+}
+
+.form-label{
+  text-align: center;
+}
+
+.form-control{
   text-align: center;
 }
